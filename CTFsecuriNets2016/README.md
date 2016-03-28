@@ -1,2 +1,2 @@
-#CTF SecuriNets 2016
+#CTFSecuriNets 2016
 www.ctfsecurinets.com
