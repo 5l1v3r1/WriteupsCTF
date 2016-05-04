@@ -116,22 +116,23 @@
       . 0xe0003389c040 smss.exe (268)               4      2      - 2016-04-04 16:12:33+0000
                  Out<2> Plugin: pstree
 
-                                        #Dump Procees For msfpaint.exe
+        Dump Procees For msfpaint.exe
                 [1] dump1.raw 00:20:41> memdump(pid=4092)
       **************************************************
       Writing mspaint.exe 0xe00034b0f780 mspaint.exe  4092 to mspaint.exe_4092.dmp
                  Out<3> Plugin: memdump                      
 
-                                        #Now We Can Rename mspaint.exe_4092.dmp To mspaint.exe_4092.data 
+                                        Now We Can Rename mspaint.exe_4092.dmp To mspaint.exe_4092.data 
                [1] dump1.raw 00:26:09> mv  mspaint.exe_4092.dmp mspaint.exe_4092.data
 
-                                        #Using Gimp We Can Resolve This Challenge To Get The Flag
+                                        Using Gimp We Can Resolve This Challenge To Get The Flag
                     Screenshot Gimp.png
+      We Can See The Flag Is Reversed  :  CTF{HeRe_GoEs_thE_FLaG}
   ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/gimp.png)
-We Can See The Flag Is Reversed  :  CTF{HeRe_GoEs_thE_FLaG}
+#Reversed Screenshot :
   ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/For1.png)
 
-Flag Is :  CTF{HeRe_GoEs_thE_FLaG}<br>
-Regards,<br>
-By Soufiane Boussali
+      Flag Is :  CTF{HeRe_GoEs_thE_FLaG}
+      Regards,
+      By Soufiane Boussali
 
