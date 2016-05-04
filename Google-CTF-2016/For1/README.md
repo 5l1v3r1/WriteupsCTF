@@ -60,7 +60,7 @@ https://capturetheflag.withgoogle.com/
       0xe000348e9780 svchost.exe           3992    484      6        -      0 False  2016-04-04 16:12:52+0000 -                       
       0xe00034b0f780 mspaint.exe           4092   2336      3        -      1 False  2016-04-04 16:13:21+0000 -                       
            Out<1> Plugin: pslist
-
+  ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/pslist.png)
                     In Last Line We Can See mspaint.exe PID 4092 Let's Try To See More About This Process 
 
                   [1] dump1.raw 00:19:59> pstree()
@@ -116,7 +116,7 @@ https://capturetheflag.withgoogle.com/
         0xe00032553780 System (4)                   0    126      - 2016-04-04 16:12:33+0000
       . 0xe0003389c040 smss.exe (268)               4      2      - 2016-04-04 16:12:33+0000
                  Out<2> Plugin: pstree
-
+  ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/pstree.png)
         Dump Procees For msfpaint.exe
                 [1] dump1.raw 00:20:41> memdump(pid=4092)
       **************************************************
