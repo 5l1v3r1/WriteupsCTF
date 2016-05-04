@@ -1,8 +1,9 @@
-#GOOGLE CTF - For1
+# GOOGLE CTF 2016
+#Forensics - For1  100 Points
 
-We Can Check The File Using file or Strings or hexdump or xxd To Get Some Informations About File
-This Memory Dump We Can Investigat it Using Volatility Or Rekal Or Any Memory Forensics Framework
-I've Found A Solution Using Rekal Framework
+                    We Can Check The File Using file or Strings or hexdump or xxd To Get Some Informations About File
+                    This Memory Dump We Can Investigat it Using Volatility Or Rekal Or Any Memory Forensics Framework
+                    I've Found A Solution Using Rekal Framework
 
           rekal -f dump1.raw
       [1] dump1.raw 00:19:31> pslist()
@@ -59,8 +60,7 @@ I've Found A Solution Using Rekal Framework
       0xe00034b0f780 mspaint.exe           4092   2336      3        -      1 False  2016-04-04 16:13:21+0000 -                       
            Out<1> Plugin: pslist
 
-In Last Line We Can See mspaint.exe PID 4092 
-Let's Try To See More About This Process 
+                    In Last Line We Can See mspaint.exe PID 4092 Let's Try To See More About This Process 
 
                   [1] dump1.raw 00:19:59> pstree()
       _EPROCESS                                 PPid   Thds   Hnds            Time          
@@ -116,17 +116,20 @@ Let's Try To See More About This Process
       . 0xe0003389c040 smss.exe (268)               4      2      - 2016-04-04 16:12:33+0000
                  Out<2> Plugin: pstree
 
-Dump Procees For msfpaint.exe
+                                        #Dump Procees For msfpaint.exe
                 [1] dump1.raw 00:20:41> memdump(pid=4092)
       **************************************************
       Writing mspaint.exe 0xe00034b0f780 mspaint.exe  4092 to mspaint.exe_4092.dmp
                  Out<3> Plugin: memdump                      
 
-Now We Can Rename mspaint.exe_4092.dmp To mspaint.exe_4092.data 
+                                        #Now We Can Rename mspaint.exe_4092.dmp To mspaint.exe_4092.data 
                [1] dump1.raw 00:26:09> mv  mspaint.exe_4092.dmp mspaint.exe_4092.data
 
-Using Gimp We Can Resolve This Challenge To Get The Flag
+                                        #Using Gimp We Can Resolve This Challenge To Get The Flag
+                    Screenshot Gimp.png
 
+                    Flag Is :  CTF{HeRe_GoEs_thE_FLaG}
 
-
+Regards,
+By Soufiane Boussali
 
