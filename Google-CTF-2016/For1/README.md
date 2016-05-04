@@ -133,14 +133,14 @@ https://capturetheflag.withgoogle.com/
 #Reversed Screenshot :
   ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/For1.png)
   
-#Using Volatility FrameWork
+   #Solution Using Volatility FrameWork
  imageinfo
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/volinfo.png)
 #pslist
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/volist.png)
 #pstree
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/voltree.png)
-#process dump using memdump parametre
+#mspaint.exe process dump using memdump parametre
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/voldata.png)
 #And Final Step We Can Open The Data As Picture And Modify The alpha RVB to Get Flag Clear
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/Fl.png)
