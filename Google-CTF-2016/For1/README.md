@@ -127,9 +127,9 @@
 
                                         #Using Gimp We Can Resolve This Challenge To Get The Flag
                     Screenshot Gimp.png
-                    ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/gimp.png)
+  ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/gimp.png)
                     Flag Is :  CTF{HeRe_GoEs_thE_FLaG}
-
+  ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/For1.png)
 Regards,
 By Soufiane Boussali
 
