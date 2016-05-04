@@ -1,9 +1,9 @@
 # GOOGLE CTF 2016
 #Forensics - For1  100 Points
 
-                    We Can Check The File Using file or Strings or hexdump or xxd To Get Some Informations About File
-                    This Memory Dump We Can Investigat it Using Volatility Or Rekal Or Any Memory Forensics Framework
-                    I've Found A Solution Using Rekal Framework
+    We Can Check The File Using file or Strings or hexdump or xxd To Get Some Informations About File
+    This Memory Dump We Can Investigat it Using Volatility Or Rekal Or Any Memory Forensics Framework
+    I've Found A Solution Using Rekal Framework
 
           rekal -f dump1.raw
       [1] dump1.raw 00:19:31> pslist()
