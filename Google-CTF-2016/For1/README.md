@@ -128,8 +128,10 @@
                                         #Using Gimp We Can Resolve This Challenge To Get The Flag
                     Screenshot Gimp.png
   ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/gimp.png)
-Flag Is :  CTF{HeRe_GoEs_thE_FLaG}
+  We Can See The Flag Is Reversed  :  CTF{HeRe_GoEs_thE_FLaG}
   ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/For1.png)
+
+Flag Is :  CTF{HeRe_GoEs_thE_FLaG}
 Regards,
 By Soufiane Boussali
 
