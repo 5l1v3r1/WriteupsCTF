@@ -1,7 +1,6 @@
 # GOOGLE CTF 2016
 https://capturetheflag.withgoogle.com/          
 #Forensics - For1  100 Points
-  ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/scoreboard.png)
 
           We Can Check The File Using file or Strings or hexdump or xxd To Get Some Informations About File
           This Memory Dump We Can Investigat it Using Volatility Or Rekal Or Any Memory Forensics Framework
