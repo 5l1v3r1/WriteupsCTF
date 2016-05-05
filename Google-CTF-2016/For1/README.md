@@ -128,7 +128,7 @@ https://capturetheflag.withgoogle.com/
 
                                         Using Gimp We Can Resolve This Challenge To Get The Flag
                     Screenshot Gimp.png
-      We Can See The Flag Is Reversed  :  CTF{HeRe_GoEs_thE_FLaG}
+      We Can See The Flag Is Reversed  :  {bɐןɟ‾ǝɥʇ‾sǝob‾ǝɹǝɥ}ɟʇɔ
   ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/data.png)
 # Reversed Screenshot :
   ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/For1.png)
