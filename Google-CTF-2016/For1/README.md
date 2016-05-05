@@ -134,15 +134,16 @@ https://capturetheflag.withgoogle.com/
   ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/For1.png)
   
 #Solution Using Volatility FrameWork
- imageinfo
+#imageinfo
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/volinfo.png)
 #pslist
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/volist.png)
 #pstree
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/voltree.png)
-#mspaint.exe process dump using memdump Argument
+# memdump & Rename The output From 4092.dmp to 4092.data 
+mspaint.exe is the process we go To dump it using memdump Argument On Volatility 
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/voldata.png)
-#And Final Step We Can Open The Data As Picture And Modify The alpha RVB to Get Flag Clear
+#And Final Step We Can Open The Data As Picture And Modify Type 2 The alpha RVB to Get Flag Clear
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/Fl.png)
 
       Flag Is :  CTF{HeRe_GoEs_thE_FLaG}
