@@ -143,7 +143,7 @@ https://capturetheflag.withgoogle.com/
 # mspaint.exe is the process we go To dump it using memdump Argument On Volatility
 # memdump & Rename The output From 4092.dmp to 4092.data 
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/voldata.png)
-# And Final Step We Can Open The Data As Picture And Modify Type 2 The alpha RVB to Get Flag Clear
+# And Final Step We Can Open The Data As Picture And Modify Type 2 The alpha RVB to Get The Flag :
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/Fl.png)
 
       Flag Is :  CTF{HeRe_GoEs_thE_FLaG}
