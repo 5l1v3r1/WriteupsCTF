@@ -3,7 +3,7 @@ memdump.mem
 
       We Can Check The File Using file or Strings or hexdump or xxd To Get Some Informations About File
       This Memory Dump We Can Investigat it, I've Found A Solution Using Volatility Forensics Framework
-      We Can Get Some Precess And Dll's And Administrator Password .......
+      With Volatility We Can Extract All Precess And Dll's And Administrator Password .......
       
       ./volatility -f memdump.mem --profile=WinXPSP2x86 psscan
       ./volatility -f memdump.mem --profile=WinXPSP2x86 pslist
