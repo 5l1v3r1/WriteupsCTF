@@ -1,4 +1,4 @@
-#Solution - Forensics 100 Points
+#Solution - Forensics 90 Points
 memdump.mem
 
       We Can Check The File Using file or Strings or hexdump or xxd To Get Some Informations About File
