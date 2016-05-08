@@ -1,4 +1,3 @@
 #Angstrom CTF 2016
-ScoreBoard
-
+#ScoreBoard
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/AngstromCTF/AngstromCTF.png)
