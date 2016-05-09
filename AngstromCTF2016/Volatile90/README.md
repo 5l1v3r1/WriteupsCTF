@@ -1,6 +1,6 @@
-#Forensics -Volatile 90 Points
+#Forensics - Volatile 90 Points
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/AngstromCTF2016/Volatile90/volatile90.png)
-memdump.mem
+#memdump.mem
 
       We Can Check The File Using file or Strings or hexdump or xxd To Get Some Informations About File
       This Memory Dump We Can Investigat it, I've Found A Solution Using Volatility Forensics Framework
