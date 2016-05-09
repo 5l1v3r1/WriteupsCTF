@@ -32,4 +32,6 @@ To Decrypt Another Text Included :
 
     Flag is : OHGREATDYOUDIDTHEGREATJOBTHATSGREATYOUDESERVETHESECONDPARTALANTURINGHHHITSNOTTHESAMECLUERIGHTITSALINKOPENITANDYOUWILLFINDSOMETHING
     Regards,
-    By Soufiane Boussali
+    By 
+![alt tag](https://github.com/MrMugiwara/MrMugiwara.github.io/blob/master/images/Mr.Mugiwara.jpg)
+
