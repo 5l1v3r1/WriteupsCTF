@@ -20,6 +20,7 @@ https://capturetheflag.withgoogle.com/
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/Google-CTF-2016/For1/Fl.png)
 
       Flag Is :  CTF{HeRe_GoEs_thE_FLaG}
-      Regards,
-      By Soufiane Boussali
+      Regards, By
+![alt tag](https://github.com/MrMugiwara/MrMugiwara.github.io/blob/master/images/Mr.Mugiwara.jpg)
+ 
 
