@@ -17,3 +17,6 @@ Thats Mean Tétrahydrocannabinol
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/MC16/sha256.png)
 
 FLAG IS : f74d41592f5bf26395d85f988f4ddccfd5e35a788d86baf6db018c0b37ababad
+
+Kind Regards,
+Soufiane Boussali
