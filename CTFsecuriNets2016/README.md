@@ -1,4 +1,4 @@
-#CTFSecuriNets 2016
+# CTFSecuriNets 2016
 www.ctfsecurinets.com
 #Solution : Crypto1.txt  100 Pts
 
@@ -31,7 +31,7 @@ To Decrypt Another Text Included :
 
 
     Flag is : OHGREATDYOUDIDTHEGREATJOBTHATSGREATYOUDESERVETHESECONDPARTALANTURINGHHHITSNOTTHESAMECLUERIGHTITSALINKOPENITANDYOUWILLFINDSOMETHING
-    Regards,
-    By 
+     
+      
 ![alt tag](https://github.com/MrMugiwara/MrMugiwara.github.io/blob/master/images/Mr.Mugiwara.jpg)
 
