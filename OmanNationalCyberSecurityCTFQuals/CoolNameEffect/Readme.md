@@ -77,4 +77,4 @@ So we download the webpage, replace the javascript with the clean one and add tw
 On opening the HTML file in a browser we are presented with an alert-  
 `your flag is: ciyypjz`.
 
-![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/OmanNationalCyberSecurityCTFQuals/CoolNameEffect.jpg)
+![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/OmanNationalCyberSecurityCTFQuals/CoolNameEffect/CoolNameEffect.jpg)
