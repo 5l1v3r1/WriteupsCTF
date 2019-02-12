@@ -37,5 +37,5 @@ After decrypt base64 code we have the self invite code 
 
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/HackTheBox/InviteCode/pic/inv6.png)
 
-Let’s Capture The Flag’s
+Let’s Capture The Flag’s<br>
 Old Writeups source : https://github.com/MrMugiwara/WriteupsCTF 
