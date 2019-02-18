@@ -3,7 +3,7 @@
 
 ![alt tag](https://github.com/MrMugiwara/WriteupsCTF/blob/master/HackTheBox/InviteCode/pic/inv0.png)
 
-How to Access ?
+# How to Access ?<br>
 Hackthebox.eu doesn’t allow you to register. The only way to sign up is by having an insider to provide you with an invite code or hack your way in.
 I don’t have someone to provide me an invite code so I have to hack me way in.
 I start off by analyzing the source code of the Invite Code form, where I find an interesting javascript inviteapi.min.js
